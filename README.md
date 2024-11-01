@@ -120,3 +120,5 @@ To extract features from the audio dataset, run:
   python feature_extraction.py 
   ```
 Otherwise, just run the IPYNB
+make sure before you run it to download the dataset from https://www.kaggle.com/datasets/rabiaimehdiayoub/audio-training-data-audio-classification
+and put it in the main folder .
